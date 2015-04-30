@@ -1,5 +1,5 @@
 # PySniffy
-This is a simple network sniffer created using python, scapy module
+This is a simple network sniffer created in python using scapy module.
 I have included some protocols, so you can get the idea of how to 
 create or customize such existing tools.
 Requiements:
